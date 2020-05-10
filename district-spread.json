@@ -1,0 +1,54 @@
+[{
+        "name": "Colombo",
+        "lat": 0,
+        "lon": 0,
+        "count": 152
+    }, {
+        "name": "Gampaha",
+        "lat": 0,
+        "lon": 0,
+        "count": 36
+    },
+    {
+        "name": "Puttalam",
+        "lat": 0,
+        "lon": 0,
+        "count": 7
+    },
+    {
+        "name": "Kaluthara",
+        "lat": 0,
+        "lon": 0,
+        "count": 7
+    },
+    {
+        "name": "Kandy",
+        "lat": 0,
+        "lon": 0,
+        "count": 7
+    }, {
+        "name": "Kurunegala",
+        "lat": 0,
+        "lon": 0,
+        "count": 7
+    }, {
+        "name": "Jaffna",
+        "lat": 0,
+        "lon": 0,
+        "count": 7
+    }, {
+        "name": "Quarantine centers(local)",
+        "count": 65
+    }, {
+        "name": "Quarantine centers(abroad)",
+        "count": 42
+    }, {
+        "name": "Navy Camps",
+        "count": 416
+    },
+    {
+        "name": "Foreigners",
+        "count": 3
+    }
+
+]
