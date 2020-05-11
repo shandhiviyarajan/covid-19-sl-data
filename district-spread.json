@@ -1,53 +1,83 @@
 [{
         "name": "Colombo",
-        "lat": 6.9219226,
-        "lon": 79.821186,
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 152
     }, {
         "name": "Gampaha",
-        "lat": 0,
-        "lon": 0,
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 36
     },
     {
         "name": "Puttalam",
-        "lat": 0,
-        "lon": 0,
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 7
     },
     {
         "name": "Kaluthara",
-        "lat": 0,
-        "lon": 0,
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 7
     },
     {
         "name": "Kandy",
-        "lat": 0,
-        "lon": 0,
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 7
     }, {
         "name": "Kurunegala",
-        "lat": 0,
-        "lon": 0,
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 7
     }, {
         "name": "Jaffna",
-        "lat": 0,
-        "lon": 0,
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 7
     }, {
         "name": "Quarantine centers(local)",
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 65
     }, {
         "name": "Quarantine centers(abroad)",
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 42
     }, {
         "name": "Navy Camps",
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 416
     },
     {
         "name": "Foreigners",
+        "location": {
+            "lat": 6.9219226,
+            "lon": 79.821186
+        },
         "count": 3
     }
 
