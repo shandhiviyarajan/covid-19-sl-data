@@ -1,83 +1,72 @@
 [{
         "name": "Colombo",
         "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
+            "lat": 6.8903529,
+            "lng": 79.8978757
         },
         "count": 152
     }, {
         "name": "Gampaha",
         "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
+            "lat": 7.0814649,
+            "lng": 79.9948035
         },
         "count": 36
     },
     {
         "name": "Puttalam",
         "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
+            "lat": 8.0304797,
+            "lng": 79.7977198
         },
         "count": 7
     },
     {
         "name": "Kaluthara",
         "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
+            "lat": 6.5878321,
+            "lng": 79.9597504
         },
         "count": 7
     },
     {
         "name": "Kandy",
         "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
+            "lat": 7.2946291,
+            "lng": 80.5907619
         },
         "count": 7
     }, {
         "name": "Kurunegala",
         "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
+            "lat": 7.4807041,
+            "lng": 80.3227609
+
         },
         "count": 7
     }, {
         "name": "Jaffna",
         "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
+            "lat": 9.6699994,
+            "lng": 80.0109171
         },
         "count": 7
     }, {
         "name": "Quarantine centers(local)",
-        "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
-        },
+        "location": null,
         "count": 65
     }, {
         "name": "Quarantine centers(abroad)",
-        "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
-        },
+        "location": null,
         "count": 42
     }, {
         "name": "Navy Camps",
-        "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
-        },
+        "location": null,
         "count": 416
     },
     {
         "name": "Foreigners",
-        "location": {
-            "lat": 6.9219226,
-            "lng": 79.821186
-        },
+        "location": null,
         "count": 3
     }
 
