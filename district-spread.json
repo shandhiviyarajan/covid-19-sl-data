@@ -19,7 +19,7 @@
             "lat": 8.0304797,
             "lng": 79.7977198
         },
-        "count": 7
+        "count": 35
     },
     {
         "name": "Kaluthara",
@@ -27,7 +27,7 @@
             "lat": 6.5878321,
             "lng": 79.9597504
         },
-        "count": 7
+        "count": 34
     },
     {
         "name": "Kandy",
@@ -35,7 +35,7 @@
             "lat": 7.2946291,
             "lng": 80.5907619
         },
-        "count": 7
+        "count": 13
     }, {
         "name": "Kurunegala",
         "location": {
@@ -43,7 +43,7 @@
             "lng": 80.3227609
 
         },
-        "count": 7
+        "count": 11
     }, {
         "name": "Jaffna",
         "location": {
