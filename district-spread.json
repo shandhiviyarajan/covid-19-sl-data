@@ -51,20 +51,19 @@
             "lng": 80.0109171
         },
         "count": 7
-    }, {
-        "name": "Quarantine centers(local)",
-        "location": null,
-        "count": 65
-    }, {
-        "name": "Quarantine centers(abroad)",
-        "location": null,
-        "count": 42
-    }, {
+    }, , {
         "name": "Navy Camps",
         "location": null,
         "count": 429
-    },
-    {
+    }, {
+        "name": "Quarantine centers(local)",
+        "location": null,
+        "count": 66
+    }, {
+        "name": "Quarantine centers(abroad)",
+        "location": null,
+        "count": 44
+    }, {
         "name": "Foreigners",
         "location": null,
         "count": 3
