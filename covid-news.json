@@ -1,0 +1,22 @@
+[{
+    "date": "1/3/2020",
+    "all_news": [{
+        "title": "News title",
+        "body": "newsbody",
+        "url": "news-url",
+        "site": "Newsfirst",
+        "img": "news_img"
+    }, {
+        "title": "News title",
+        "body": "newsbody",
+        "url": "news-url",
+        "site": "Adaderana",
+        "img": "news_img"
+    }, {
+        "title": "News title",
+        "body": "newsbody",
+        "url": "news-url",
+        "site": "Dailymirror",
+        "img": "news_img"
+    }]
+}]
