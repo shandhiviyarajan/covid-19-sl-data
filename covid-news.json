@@ -1,22 +1,121 @@
 [{
-    "date": "1/3/2020",
-    "all_news": [{
-        "title": "News title",
-        "body": "newsbody",
-        "url": "news-url",
-        "site": "Newsfirst",
-        "img": "news_img"
-    }, {
-        "title": "News title",
-        "body": "newsbody",
-        "url": "news-url",
-        "site": "Adaderana",
-        "img": "news_img"
-    }, {
-        "title": "News title",
-        "body": "newsbody",
-        "url": "news-url",
-        "site": "Dailymirror",
-        "img": "news_img"
-    }]
-}]
+    "date": "May 16 2020",
+    "author": "adaderana",
+    "title": "177 navy men recovered from COVID-19 so far",
+    "body": "Another 26 naval personnel who were confirmed coronavirus-positive have made complete recoveries, Sri Lanka Navy said in a statement issued today (16).
+
+    These navy men had been undergoing treatment at the Naval General Hospital(20),
+    Homagama Hosptial(01) and Mulleriyawa Hospital(05).
+
+    These discharged navy men will be kept under quarantine
+    for another 14 days in compliance with the healthcare instructions.
+    ",
+    "image": "https://adaderanaenglish.s3.amazonaws.com/1589618361-Sri-Lanka-Navy-COVID-19-L.jpg",
+    "url": "http://www.adaderana.lk/news/63755/177-navy-men-recovered-from-covid-19-so-far"
+  },
+  {
+    "date": "May 16 2020",
+    "author": "dailynews",
+    "title": "Island-wide curfew from today 8pm",
+    "body": "Campaigners call for fashion brands to protect workers in their supply chains globally as coronavirus causes orders to dry up
+    ",
+    "image": "http://www.dailynews.lk/sites/default/files/news/2020/05/16/curfew-times.jpg",
+    "url": "http://www.dailynews.lk/2020/05/16/local/218689/island-wide-curfew-today-8pm"
+  },
+
+  {
+    "date": "May 16 2020",
+    "author": "adaderana",
+    "title": "Garment workers face destitution as Covid - 19 closes factories",
+    "body": "Campaigners call for fashion brands to protect workers in their supply chains globally as coronavirus causes orders to dry up
+    ",
+    "image": "https://adaderanaenglish.s3.amazonaws.com/1589621629-COVID-19-recoveries-in-Sri-Lanka-L.jpg",
+    "url": "http://www.adaderana.lk/news/63756/43-new-covid-19-recoveries-take-total-count-to-520"
+  },
+  {
+    "date": "May 16 2020",
+    "author": "adaderana",
+    "title": "43 new COVID-19 recoveries take total count to 520",
+    "body": "orty-three more patients who had tested positive for COVID-19 virus in Sri Lanka have returned to health, the Ministry of Health said today (16).
+    Sri Lanka’ s coronavirus recoveries tally thereby reached 520.
+    New recoveries are reported from Infectious Disease Hospital(IDH),
+    Welikanda Base Hospital,
+    Colombo East Base Hospital,
+    Navy Hospital and Homagama Base Hospital.
+    ",
+    "image": "https://adaderanaenglish.s3.amazonaws.com/1589621629-COVID-19-recoveries-in-Sri-Lanka-L.jpg",
+    "url": "http://www.adaderana.lk/news/63756/43-new-covid-19-recoveries-take-total-count-to-520"
+  },
+  {
+    "date": "16 May 2020",
+    "author": "newsfirst",
+    "title": "WHO warns of a multisystem inflammatory condition in children. Calls on health authorities worldwide to be on alert",
+    "body": "The World Health Organization last evening called on health authorities worldwide to be on alert for a multisystem inflammatory condition in children, that has been reported from Europe and North America.",
+    "image": "https://www.newsfirst.lk/wp-content/uploads/2018/05/WHO.jpg",
+    "url": "https://www.newsfirst.lk/2020/05/16/who-warns-of-a-multisystem-inflammatory-condition-in-children-calls-on-health-authorities-worldwide-to-be-on-alert/"
+  },
+  {
+    "date": "16 May 2020",
+    "author": "newsfirst",
+    "title": "Foreign investors return to Sri Lankan bonds after 4-months",
+    "body": "COLOMBO (News 1st): Foreign investors returned to Sri Lanka government securities this week, the first time in four months, government data showed.",
+    "image": "https://cdn.newsfirst.lk/english-uploads/2020/05/a45f34a8-cbsl.jpg",
+    "url": "https://www.newsfirst.lk/2020/05/16/foreign-investors-return-to-sri-lankan-bonds-after-4-months/"
+  },
+
+  {
+    "date": "16 May 2020",
+    "author": "newsfirst",
+    "title": "Sri Lanka’s COVID-19 cases rises to 949",
+    "body": "COLOMBO (News1st): Sri Lanka’s number of coronavirus patients rose to 949 after 14 people tested positive for the virus on Saturday, the health ministry said.
+    One patient had returned from Chennai in India recently,
+    director general of health services Dr.Anil Jasinghe said in a statement.
+    ",
+    "image": "https://cdn.newsfirst.lk/english-uploads/2020/04/0f66069d-coronavirus.jpg",
+    "url": "https://www.newsfirst.lk/2020/05/16/sri-lankas-covid-19-cases-rises-to-949/"
+  },
+
+  {
+    "date": "15 May 2020",
+    "author": "adaderana",
+    "title": "Sri Lanka tea prices soar despite COVID-19 disruptions",
+    "body": "Sri Lanka’ s tea prices at Colombo tea auction rose sharply during 2020 Q1, whilst Sri Lanka’ s tea production declined by nearly 30 % Q / Q
+    for the same period,
+    according to a report released by ICRA Sri Lanka,
+    a subsidiary of Moody’ s Investor Services.
+
+    The rise in tea prices was largely attributable to the global supply shock from unfavorable weather conditions in most black tea exporting nations,
+    it said.
+    ",
+    "image": "http://bizenglish.adaderana.lk/wp-content/uploads/tea-plantation.01-1.jpg",
+    "url": "http://bizenglish.adaderana.lk/sri-lanka-tea-prices-soar-despite-covid-19-disruptions/"
+  },
+  {
+
+    "date": "11 May 2020",
+    "author": "aljazeera",
+    "title": "Sri Lanka: Muslims face extra threat as coronavirus stirs hate",
+    "body": "Sri Lanka makes cremations compulsory for COVID-19 victims, but Muslims and activists urge authorities to allow burials.",
+    "image": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/4/3/733ac7b460d141689cfa68e47ea13fe5_18.jpg",
+    "url": "https://www.aljazeera.com/news/2020/05/sri-lanka-muslims-face-extra-threat-coronavirus-stirs-hate-200510183518512.html"
+
+  },
+  {
+    "date": "29 April 2020",
+    "author": "yahoo",
+    "title": "Sri Lanka faces cash crunch without parliament amid virus lockdown",
+    "body": "Sri Lanka's opposition Wednesday called on the government to urgently recall parliament which was dissolved in March ahead of elections now postponed to June due to a coronavirus curfew.",
+    "image": "https://s.yimg.com/uu/api/res/1.2/i0mPHcUJlShZ4PSWenxZIA--~B/aD00NjQ7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/6cef13aadb8674f384038aa02310e41f4ad83c85.jpg",
+    "url": "https://news.yahoo.com/sri-lanka-faces-cash-crunch-without-parliament-amid-102541374.html"
+
+  },
+  {
+    "date": "21 April 2020",
+    "author": "bbc",
+    "title": "Sri Lanka attacks: Easter Sunday bombings marked one year on",
+    "body": "Church bells have rung out across Sri Lanka, marking one year since 269 people were killed by a group of suicide bombers.",
+    "image": "https://ichef.bbci.co.uk/news/660/cpsprodpb/E66A/production/_111868985_8bbce0b2-6767-4eac-b1d8-85baa7aa4c23.jpg",
+    "url": "https://www.bbc.com/news/world-asia-52357200"
+  }
+
+]
