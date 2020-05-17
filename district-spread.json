@@ -54,15 +54,20 @@
     }, {
         "name": "Navy Camps",
         "location": null,
-        "count": 522
+        "count": 521
     }, {
+        "name": "Other forces",
+        "location": null,
+        "count": 12
+    },
+    {
         "name": "Quarantine centers(local)",
         "location": null,
-        "count": 67
+        "count": 68
     }, {
         "name": "Quarantine centers(abroad)",
         "location": null,
-        "count": 45
+        "count": 46
     }, {
         "name": "Foreigners",
         "location": null,
