@@ -1,5 +1,21 @@
 [{
     "date": "May 17 2020",
+    "author": "dailynews",
+    "url": "http://www.dailynews.lk/2020/05/17/local/218708/covid-19-fund-surpasses-rs-one-billion",
+    "body": "As the Covid–19 Healthcare and Social Security Fund surpassed one billion rupees, President Gotabaya Rajapaksa promised to make the Fund’s audited reports public to ensure transparency.",
+    "image": "http://www.dailynews.lk/sites/default/files/news/2020/05/17/z_p01-Covid-19-Fund.jpg",
+    "title": "Covid-19 Fund surpasses Rs one billion"
+
+  }, {
+    "date": "May 17 2020",
+    "author": "adaderana",
+    "title": "189 Navy personnel recovered from COVID-19 so far",
+    "body": "Twelve more Sri Lanka Navy personnel who had been receiving treatment for COVID-19 infection have been discharged from the hospitals following being tested negative in PCR tests. Seven among them had been receiving treatment at the Homagama Hospital, three at the Mulleriyawa Hospital, and two at the Infectious Diseases Hospital, stated Sri Lanka Navy.",
+    "image": "https://adaderanaenglish.s3.amazonaws.com/1589700541-Sri-Lanka-Navy-B.jpg",
+    "url": "http://www.adaderana.lk/news/63782/189-navy-personnel-recovered-from-covid-19-so-far"
+  },
+  {
+    "date": "May 17 2020",
     "author": "adaderana",
     "title": "23 among yesterday’s detections are Navymen – Army Chief",
     "body": "Twenty-three among the novel coronavirus detected yesterday (16) were identified among Sri Lanka personnel, stated Commander of the Army Lieutenant General Shavendra Silva. In total, 25 new cases of COVID - 19 infections were identified yesterday.",
