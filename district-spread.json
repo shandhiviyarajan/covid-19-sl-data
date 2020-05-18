@@ -61,11 +61,11 @@
         "count": 12
     },
     {
-        "name": "Quarantine centers(local)",
+        "name": "Quarantine(local)",
         "location": null,
         "count": 68
     }, {
-        "name": "Quarantine centers(abroad)",
+        "name": "Quarantine(abroad)",
         "location": null,
         "count": 46
     }, {
