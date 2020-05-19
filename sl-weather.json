@@ -1,0 +1,31 @@
+[{
+
+    "status": "success",
+    "name": "Sri Lanka Weather",
+    "data": [{
+            "id": 1,
+            "district": "Ratnapura",
+            "fall": 193.3
+        },
+        {
+            "id": 1,
+            "district": "Galle",
+            "fall": 168.5
+        },
+        {
+            "id": 1,
+            "district": "Deniyaya",
+            "fall": 168.5
+        },
+        {
+            "id": 1,
+            "district": "Kalutara",
+            "fall": 112.5
+        },
+        {
+            "id": 1,
+            "district": "Nuwara-eliya",
+            "fall": 109.5
+        }
+    ]
+}]
